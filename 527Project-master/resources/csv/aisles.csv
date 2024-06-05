@@ -1,0 +1,135 @@
+aisle_id,aisle,department_id
+1,prepared soups salads,20
+2,specialty cheeses,16
+3,energy granola bars,19
+4,instant foods,9
+5,marinades meat preparation,13
+6,other,2
+7,packaged meat,12
+8,bakery desserts,3
+9,pasta sauce,9
+10,kitchen supplies,17
+11,cold flu allergy,11
+12,fresh pasta,9
+13,prepared meals,20
+14,tofu meat alternatives,20
+15,packaged seafood,12
+16,fresh herbs,4
+17,baking ingredients,13
+18,bulk dried fruits vegetables,10
+19,oils vinegars,13
+20,oral hygiene,11
+21,packaged cheese,16
+22,hair care,11
+23,popcorn jerky,19
+24,fresh fruits,4
+25,soap,11
+26,coffee,7
+27,beers coolers,5
+28,red wines,5
+29,honeys syrups nectars,13
+30,latino foods,6
+31,refrigerated,7
+32,packaged produce,4
+33,kosher foods,6
+34,frozen meat seafood,1
+35,poultry counter,12
+36,butter,16
+37,ice cream ice,1
+38,frozen meals,1
+39,seafood counter,12
+40,dog food care,8
+41,cat food care,8
+42,frozen vegan vegetarian,1
+43,buns rolls,3
+44,eye ear care,11
+45,candy chocolate,19
+46,mint gum,19
+47,vitamins supplements,11
+48,breakfast bars pastries,14
+49,packaged poultry,12
+50,fruit vegetable snacks,19
+51,preserved dips spreads,13
+52,frozen breakfast,1
+53,cream,16
+54,paper goods,17
+55,shave needs,11
+56,diapers wipes,18
+57,granola,14
+58,frozen breads doughs,1
+59,canned meals beans,15
+60,trash bags liners,17
+61,cookies cakes,19
+62,white wines,5
+63,grains rice dried goods,9
+64,energy sports drinks,7
+65,protein meal replacements,11
+66,asian foods,6
+67,fresh dips tapenades,20
+68,bulk grains rice dried goods,10
+69,soup broth bouillon,15
+70,digestion,11
+71,refrigerated pudding desserts,16
+72,condiments,13
+73,facial care,11
+74,dish detergents,17
+75,laundry,17
+76,indian foods,6
+77,soft drinks,7
+78,crackers,19
+79,frozen pizza,1
+80,deodorants,11
+81,canned jarred vegetables,15
+82,baby accessories,18
+83,fresh vegetables,4
+84,milk,16
+85,food storage,17
+86,eggs,16
+87,more household,17
+88,spreads,13
+89,salad dressing toppings,13
+90,cocoa drink mixes,7
+91,soy lactosefree,16
+92,baby food formula,18
+93,breakfast bakery,3
+94,tea,7
+95,canned meat seafood,15
+96,lunch meat,20
+97,baking supplies decor,13
+98,juice nectars,7
+99,canned fruit applesauce,15
+100,missing,21
+101,air fresheners candles,17
+102,baby bath body care,18
+103,ice cream toppings,19
+104,spices seasonings,13
+105,doughs gelatins bake mixes,13
+106,hot dogs bacon sausage,12
+107,chips pretzels,19
+108,other creams cheeses,16
+109,skin care,11
+110,pickled goods olives,13
+111,plates bowls cups flatware,17
+112,bread,3
+113,frozen juice,1
+114,cleaning products,17
+115,water seltzer sparkling water,7
+116,frozen produce,1
+117,nuts seeds dried fruit,19
+118,first aid,11
+119,frozen dessert,1
+120,yogurt,16
+121,cereal,14
+122,meat counter,12
+123,packaged vegetables fruits,4
+124,spirits,5
+125,trail mix snack mix,19
+126,feminine care,11
+127,body lotions soap,11
+128,tortillas flat bread,3
+129,frozen appetizers sides,1
+130,hot cereal pancake mixes,14
+131,dry pasta,9
+132,beauty,11
+133,muscles joints pain relief,11
+134,specialty wines champagnes,5
